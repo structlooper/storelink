@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b16980a9-1d80-459a-a6d9-232398c02959" name="pos_website">
+        <fileTransfer rootFolder="/home/tbomvssdemo/public_html" accessType="SFTP" host="148.66.128.169" port="22" sshConfigId="b5a906ab-769b-4d58-b0fe-a0a4afbe24fc" sshConfig="tbomvssdemo@148.66.128.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

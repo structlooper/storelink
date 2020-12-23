@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6f5a65d-fe43-4695-871f-6a18451487ad" name="pos_server" url="https://tbosmartmart.com/pos/">
+        <fileTransfer rootFolder="/home/uditchauhan/public_html/pos" accessType="SFTP" host="148.66.128.112" port="22" sshConfigId="e08a7640-0140-4483-994a-8dc35fd2556a" sshConfig="uditchauhan@148.66.128.112:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

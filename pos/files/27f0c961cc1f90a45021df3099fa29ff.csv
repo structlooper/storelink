@@ -1,0 +1,12 @@
+Name,code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,HSN Code,Secondary Name,Supplier Name,Supplier Part No,Supplier Price
+COFFEE,8901030733994,code128,BRU,cat123,1111,,,2.00,2.00,,,,,,,,,,,,,,,Mr Demo Supplier,,2.00
+MONACO,8901719111440,code128,PARLE,cat123,1111,,,5.00,5.00,,,,,,,,,,,,,,,Mr Demo Supplier,,5.00
+PARLE-G,8901719112393,code128,PARLE-G,cat123,1111,,,5.00,5.00,,,,,,,,,,,,,,,Mr Demo Supplier,,5.00
+BISLERI 250 ML,8906017290026,code128,BISLERI,cat123,1111,,,6.00,6.00,,,,,,,,,,,,,,,Mr Demo Supplier,,6.00
+MINERAL WATER,8906017290026,code128,BISLERI,cat123,1111,,,6.00,6.00,,,,,,,,,,,,,,,Mr Demo Supplier,,6.00
+ENO LEMON FLAVOUR (SACHET),8901571006854,code128,ENO,cat123,1111,,,8.00,8.00,,,,,,,,,,,,,,,Mr Demo Supplier,,8.00
+AAA BATTERY,89003565,code128,PANASONIC,cat123,1111,,,10.00,10.00,,,,,,,,,,,,,,,Mr Demo Supplier,,10.00
+COFFEE,89008560,code128,NESCAFE,cat123,1111,,,10.00,10.00,,,,,,,,,,,,,,,Mr Demo Supplier,,10.00
+COFFEE,8901030783029,code128,BRU,cat123,1111,,,10.00,10.00,,,,,,,,,,,,,,,Mr Demo Supplier,,10.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

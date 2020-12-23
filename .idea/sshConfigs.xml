@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="148.66.128.169" id="b5a906ab-769b-4d58-b0fe-a0a4afbe24fc" port="22" nameFormat="DESCRIPTIVE" username="tbomvssdemo" />
+    </configs>
+  </component>
+</project>
